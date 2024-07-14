@@ -14,10 +14,10 @@ https://www.codewithantonio.com/projects/ai-saas
 
 ### Screenshots
 
-![screenshot1](screenshot1.png)
+![screenshot1](screenshots/screenshot1.png)
 
-![screenshot2](screenshot2.png)
+![screenshot2](screenshots/screenshot2.png)
 
-![screenshot3](screenshot3.png)
+![screenshot3](screenshots/screenshot3.png)
 
-![screenshot4](screenshot4.png)
+![screenshot4](screenshots/screenshot4.png)
