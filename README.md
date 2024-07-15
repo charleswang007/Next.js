@@ -12,6 +12,20 @@ https://www.codewithantonio.com/projects/ai-saas
 - Prisma
 - MySQL
 
+### Web Services
+
+- Authentication and User Management: [Clerk](https://clerk.com/)
+
+- Conversation/Code AI: [OpenAI](https://openai.com/)
+
+- Music/Video AI: [Replicate](https://replicate.com/)
+
+- MySQL: [Aiven](https://aiven.io/)
+
+- Payment: [Stripe](https://stripe.com/)
+
+- Customer Support / Help Desk: [Crisp](https://crisp.chat/en/)
+
 ### Screenshots
 
 ![screenshot1](screenshots/screenshot1.png)
