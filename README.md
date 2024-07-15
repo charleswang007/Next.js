@@ -22,6 +22,12 @@ https://www.codewithantonio.com/projects/ai-saas
 - Payment: [Stripe](https://stripe.com/)
 - Customer Support / Help Desk: [Crisp](https://crisp.chat/en/)
 
+### local development
+
+- Stripe: "stripe login", "stripe listen --forward-to localhost:3000/api/webhook"
+- Prisma: "npx prisma generate", "npx prisma db push", "npx prisma studio"
+- Main: "npm run dev"
+
 ### Screenshots
 
 ![screenshot1](screenshots/screenshot1.png)
