@@ -39,7 +39,9 @@ export async function POST(
       }
     );
 
-    await incrementApiLimit();
+    if (!isPro) {
+      await incrementApiLimit();
+    }
 
     return NextResponse.json(response);
   } catch (error) {
