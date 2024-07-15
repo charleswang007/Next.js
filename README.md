@@ -14,7 +14,7 @@ https://www.codewithantonio.com/projects/ai-saas
 
 ### Web Services
 
-- UI Components: Shadcn (https://ui.shadcn.com/)
+- UI Components: [Shadcn](https://ui.shadcn.com/)
 - Authentication and User Management: [Clerk](https://clerk.com/)
 - Conversation/Code AI: [OpenAI](https://openai.com/)
 - Music/Video AI: [Replicate](https://replicate.com/)
