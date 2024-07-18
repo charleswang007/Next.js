@@ -28,9 +28,17 @@ https://ai-saas-charles.vercel.app/
 
 ### local development
 
-- Stripe: "stripe login", "stripe listen --forward-to localhost:3000/api/webhook"
-- Prisma: "npx prisma generate", "npx prisma db push", "npx prisma studio"
-- Main: "npm run dev"
+- Stripe: 
+`stripe login`
+`stripe listen --forward-to localhost:3000/api/webhook`
+
+- Prisma:
+`npx prisma generate`
+`npx prisma db push`
+`npx prisma studio`
+
+- Main: 
+`npm run dev`
 
 ### Screenshots
 
