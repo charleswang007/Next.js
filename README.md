@@ -91,6 +91,8 @@ https://ai-companion-charles.vercel.app/
 
 ### Screenshots
 
+![screenshot5](screenshots/ai-companion/screenshot5.png)
+
 ![screenshot0](screenshots/ai-companion/screenshot0.png)
 
 ![screenshot1](screenshots/ai-companion/screenshot1.png)
@@ -100,6 +102,4 @@ https://ai-companion-charles.vercel.app/
 ![screenshot3](screenshots/ai-companion/screenshot3.png)
 
 ![screenshot4](screenshots/ai-companion/screenshot4.png)
-
-![screenshot5](screenshots/ai-companion/screenshot5.png)
 
