@@ -91,9 +91,9 @@ https://ai-companion-charles.vercel.app/
 
 ### Screenshots
 
-![screenshot5](screenshots/ai-companion/screenshot5.png)
+![screenshot5](screenshots/ai-companion/screenshot5.1.png)
 
-![screenshot0](screenshots/ai-companion/screenshot0.png)
+![screenshot0](screenshots/ai-companion/screenshot0.1.png)
 
 ![screenshot1](screenshots/ai-companion/screenshot1.png)
 
