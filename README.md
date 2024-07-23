@@ -86,7 +86,7 @@ https://ai-companion-charles.vercel.app/
 - Payment: [Stripe](https://stripe.com/)
 - Redis: [Upstash](https://upstash.com/)
 - Vecter Database: [Pinecone](https://www.pinecone.io/)
-- AI Image: [Hotpot.ai](https://hotpot.ai/)
+- AI Image Generator: [Hotpot.ai](https://hotpot.ai/)
 - Media Management: [Cloudinary](https://cloudinary.com/)
 
 ### Screenshots
