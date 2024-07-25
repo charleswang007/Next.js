@@ -13,7 +13,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'Companion.AI',
-  description: 'Your customized companion.',
+  description: 'Your customized AI companion',
 }
 
 export default function RootLayout({

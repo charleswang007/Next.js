@@ -17,7 +17,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Genius",
-  description: "AI Platform",
+  description: "AI Platform for Chatbot & Media Generation",
 };
 
 export default function RootLayout({
